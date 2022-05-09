@@ -1,5 +1,5 @@
 # w_blackmarket
-Pizzajob + Mapping + Véhicules / RageUI v2 / Optimisé 0.00ms / Full Configurable
+Black Market/ RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Discord : https://discord.gg/VpYP58ZjmD
 
