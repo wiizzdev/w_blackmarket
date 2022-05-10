@@ -3,7 +3,7 @@ Black Market/ RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Discord : https://discord.gg/VpYP58ZjmD
 
-#### Preview : bientôt
+#### Preview : https://youtu.be/HUsQWD4q6tE
 
 - Configuration facile
 - Paiement en argent sale
