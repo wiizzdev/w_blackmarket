@@ -7,7 +7,7 @@ ESX = nil
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 RegisterNetEvent('w_blackmarket:achatitem')
-AddEventHandler('w_blackmarket:achatitem', function(name, price)
+AddEventHandler('w_blackmarket:achatitem', function(name, price, item)
     local xPlayer = ESX.GetPlayerFromId(source)
     local xMoney = xPlayer.getAccount('black_money').money
     if xMoney >= price then
